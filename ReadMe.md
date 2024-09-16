@@ -1,4 +1,4 @@
-This Project simply aims for 
+This Project simply aims  
 To connect to remote servers via SFTP, Telnet, and SSH. 
 Implement functionalities for executing commands based on the provided inputs.
 
